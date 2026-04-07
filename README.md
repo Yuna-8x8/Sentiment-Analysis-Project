@@ -9,7 +9,7 @@ This project implements a sentiment analysis model using a Bidirectional LSTM wi
 - BiLSTM model
 
 ## Results
-- Achieved ~86% validation accuracy
+- Achieved ~85% validation accuracy
 
 ## How to Run
 1. Install dependencies:
